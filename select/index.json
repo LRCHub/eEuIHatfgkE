@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アイ情劣等生",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-03T15:18:26.912058Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイ情劣等生 - REBOOT ver.",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/01_アイ情劣等生_-_REBOOT_ver._Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイ情劣等生 (REBOOT ver.)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/02_アイ情劣等生_(REBOOT_ver.)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイ情劣等生 - REBOOT ver.",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/03_アイ情劣等生_-_REBOOT_ver._Kairikibear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイ情劣等生",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_アイ情劣等生_かいりきベア.txt"
+    }
+  ]
+}
